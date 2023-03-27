@@ -36,6 +36,15 @@
 		"stock": 8
 	},
 	{
+		"id": 5,
+		"title": "ASUS ROG Strix Z590-E Gaming WiFi",
+		"description": "Placa madre para procesadores Intel de 11va generación",
+		"price": 449.99,
+		"thumbnail": "img/z590-e.jpg",
+		"code": "ASUS001",
+		"stock": 3
+	},
+	{
 		"id": 6,
 		"title": "GIGABYTE AORUS X570 Master",
 		"description": "Placa madre para procesadores AMD Ryzen",
